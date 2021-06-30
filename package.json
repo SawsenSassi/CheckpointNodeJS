@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "learnyounode": "^4.2.2",
+    "mymodule": "^1.0.1"
+  }
+}
